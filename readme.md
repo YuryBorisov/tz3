@@ -1,4 +1,4 @@
 #installation
 1. git clone
-2. dump import
-3. edit config
+2. import sql dump to database
+3. update a config file
